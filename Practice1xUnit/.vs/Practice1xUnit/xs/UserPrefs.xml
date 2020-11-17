@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{133B37FD-5C82-4EB7-A463-35349653FC2E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Practice1xUnit/EmptyClass.cs">
+    <Files>
+      <File FileName="Practice1xUnit/EmptyClass.cs" Line="12" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Practice1xUnit" expanded="True">
+            <Node name="Practice1xUnit" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Practice1xUnit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

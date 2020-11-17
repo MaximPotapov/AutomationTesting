@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebParser", "WebParser\WebParser.csproj", "{773660AD-C3CE-49EF-9760-900EB0A8F2ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{773660AD-C3CE-49EF-9760-900EB0A8F2ED}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{773660AD-C3CE-49EF-9760-900EB0A8F2ED}.Debug|anycpu.Build.0 = Debug|anycpu
+		{773660AD-C3CE-49EF-9760-900EB0A8F2ED}.Release|anycpu.ActiveCfg = Release|anycpu
+		{773660AD-C3CE-49EF-9760-900EB0A8F2ED}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

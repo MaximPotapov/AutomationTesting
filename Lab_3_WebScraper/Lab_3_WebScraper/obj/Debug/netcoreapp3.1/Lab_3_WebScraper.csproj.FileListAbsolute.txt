@@ -1,0 +1,15 @@
+/Users/mpotapov/Projects/Lab_3_WebScraper/Lab_3_WebScraper/bin/Debug/netcoreapp3.1/Lab_3_WebScraper.deps.json
+/Users/mpotapov/Projects/Lab_3_WebScraper/Lab_3_WebScraper/bin/Debug/netcoreapp3.1/Lab_3_WebScraper.runtimeconfig.json
+/Users/mpotapov/Projects/Lab_3_WebScraper/Lab_3_WebScraper/bin/Debug/netcoreapp3.1/Lab_3_WebScraper.runtimeconfig.dev.json
+/Users/mpotapov/Projects/Lab_3_WebScraper/Lab_3_WebScraper/bin/Debug/netcoreapp3.1/Lab_3_WebScraper.dll
+/Users/mpotapov/Projects/Lab_3_WebScraper/Lab_3_WebScraper/bin/Debug/netcoreapp3.1/Lab_3_WebScraper.pdb
+/Users/mpotapov/Projects/Lab_3_WebScraper/Lab_3_WebScraper/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/mpotapov/Projects/Lab_3_WebScraper/Lab_3_WebScraper/bin/Debug/netcoreapp3.1/WebDriver.dll
+/Users/mpotapov/Projects/Lab_3_WebScraper/Lab_3_WebScraper/obj/Debug/netcoreapp3.1/Lab_3_WebScraper.AssemblyInfoInputs.cache
+/Users/mpotapov/Projects/Lab_3_WebScraper/Lab_3_WebScraper/obj/Debug/netcoreapp3.1/Lab_3_WebScraper.AssemblyInfo.cs
+/Users/mpotapov/Projects/Lab_3_WebScraper/Lab_3_WebScraper/obj/Debug/netcoreapp3.1/Lab_3_WebScraper.csproj.CoreCompileInputs.cache
+/Users/mpotapov/Projects/Lab_3_WebScraper/Lab_3_WebScraper/obj/Debug/netcoreapp3.1/Lab_3_WebScraper.csproj.CopyComplete
+/Users/mpotapov/Projects/Lab_3_WebScraper/Lab_3_WebScraper/obj/Debug/netcoreapp3.1/Lab_3_WebScraper.dll
+/Users/mpotapov/Projects/Lab_3_WebScraper/Lab_3_WebScraper/obj/Debug/netcoreapp3.1/Lab_3_WebScraper.pdb
+/Users/mpotapov/Projects/Lab_3_WebScraper/Lab_3_WebScraper/obj/Debug/netcoreapp3.1/Lab_3_WebScraper.genruntimeconfig.cache
+/Users/mpotapov/Projects/Lab_3_WebScraper/Lab_3_WebScraper/obj/Debug/netcoreapp3.1/Lab_3_WebScraper.csprojAssemblyReference.cache

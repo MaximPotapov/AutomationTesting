@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{0FA1FDA8-159C-4FAD-8EE8-A13E830ACDD0}|Модульные тесты">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Practice1MsTest/EmptyClassMsTest.cs">
+    <Files>
+      <File FileName="Practice1xUnit/EmptyClassT.cs" Line="5" Column="1" />
+      <File FileName="Practice1NUnit/EmptyClassNUnit.cs" Line="6" Column="37" />
+      <File FileName="Practice1MsTest/EmptyClassMsTest.cs" Line="16" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab1" expanded="True">
+            <Node name="Practice1MsTest" expanded="True">
+              <Node name="EmptyClassMsTest.cs" selected="True" />
+            </Node>
+            <Node name="Practice1NUnit" expanded="True" />
+            <Node name="Practice1xUnit" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="lab1" expanded="True">
+            <Node name="Practice1NUnit" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Practice1NUnit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

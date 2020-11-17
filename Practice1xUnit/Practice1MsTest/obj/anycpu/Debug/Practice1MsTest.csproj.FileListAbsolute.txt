@@ -1,0 +1,17 @@
+/Users/mpotapov/Projects/Practice1xUnit/Practice1MsTest/obj/anycpu/Debug/Practice1MsTest.csprojAssemblyReference.cache
+/Users/mpotapov/Projects/Practice1xUnit/Practice1MsTest/obj/anycpu/Debug/Practice1MsTest.csproj.CoreCompileInputs.cache
+/Users/mpotapov/Projects/Practice1xUnit/Practice1MsTest/bin/Debug/ru/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+/Users/mpotapov/Projects/Practice1xUnit/Practice1MsTest/bin/Debug/ru/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+/Users/mpotapov/Projects/Practice1xUnit/Practice1MsTest/bin/Debug/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/Users/mpotapov/Projects/Practice1xUnit/Practice1MsTest/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/mpotapov/Projects/Practice1xUnit/Practice1MsTest/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/mpotapov/Projects/Practice1xUnit/Practice1MsTest/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/mpotapov/Projects/Practice1xUnit/Practice1MsTest/bin/Debug/Practice1MsTest.dll
+/Users/mpotapov/Projects/Practice1xUnit/Practice1MsTest/bin/Debug/Practice1MsTest.pdb
+/Users/mpotapov/Projects/Practice1xUnit/Practice1MsTest/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+/Users/mpotapov/Projects/Practice1xUnit/Practice1MsTest/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+/Users/mpotapov/Projects/Practice1xUnit/Practice1MsTest/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+/Users/mpotapov/Projects/Practice1xUnit/Practice1MsTest/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+/Users/mpotapov/Projects/Practice1xUnit/Practice1MsTest/obj/anycpu/Debug/Practice1MsTest.csproj.CopyComplete
+/Users/mpotapov/Projects/Practice1xUnit/Practice1MsTest/obj/anycpu/Debug/Practice1MsTest.dll
+/Users/mpotapov/Projects/Practice1xUnit/Practice1MsTest/obj/anycpu/Debug/Practice1MsTest.pdb
