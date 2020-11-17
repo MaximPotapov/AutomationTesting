@@ -7,7 +7,7 @@ namespace Lab_3_WebScraper
 {
     class Program
     {
-        public bool GoBack();
+        //public bool GoBack();
         //[Test]
         //[Repeat(20)]
         static void Main(string[] args)
@@ -24,18 +24,18 @@ namespace Lab_3_WebScraper
             searchButtonSubmit.Click();
 
             // scrape price value
-            //var priceOnMain = driver.FindElement(By.XPath("/html/body/app-root/div/div[1]/app-rz-search/div/main/search-result/div[2]/section/app-search-goods/ul/li[1]/app-goods-tile-default/div/div[2]/div[4]/div[2]/p")).GetAttribute("innerHTML");
-            //Console.Write(priceOnMain);
+            var priceOnMain = driver.FindElement(By.XPath("/html/body/app-root/div/div[1]/app-rz-search/div/main/search-result/div[2]/section/app-search-goods/ul/li[1]/app-goods-tile-default/div/div[2]/div[4]/div[2]/p")).GetAttribute("innerHTML");
+            Console.Write(priceOnMain);
 
-            driver.GoBack();
+            //driver.GoBack();
 
             //////go to product page
-            //var notebookPage = driver.FindElement(By.ClassName("goods-tile__picture"));
-            //notebookPage.Click();
+            var notebookPage = driver.FindElement(By.ClassName("goods-tile__picture"));
+            notebookPage.Click();
 
             ////// scrape price on product page page
-            //var priceOnProduct = driver.FindElement(By.XPath("/html/body/app-root/div/div[1]/app-rz-product/div/product-tab-main/div[1]/div[1]/div[2]/product-main-info/div/div/div/p[1]")).GetAttribute("innerHTML");
-            //Console.Write(priceOnProduct);
+            var priceOnProduct = driver.FindElement(By.XPath("/html/body/app-root/div/div[1]/app-rz-product/div/product-tab-main/div[1]/div[1]/div[2]/product-main-info/div/div/div/p[1]")).GetAttribute("innerHTML");
+            Console.Write(priceOnProduct);
 
         }
     }
